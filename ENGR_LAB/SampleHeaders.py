@@ -18,6 +18,6 @@
 #               NAME OF TEAM MEMBER 2
 #               NAME OF TEAM MEMBER 3
 #               NAME OF TEAM MEMBER 4
-# Section:      YOUR SECTION NUMBER
+# Section:      467
 # Assignment:   THE ASSIGNMENT NUMBER (e.g. Lab 1b-2)
 # Date:         D / M / Y
